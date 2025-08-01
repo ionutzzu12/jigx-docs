@@ -1,12 +1,49 @@
----
-title: Use pre-built solutions
-slug: fQpt-use
-description: Learn how to increase time efficiency and improve app functionality in Jigx with pre-built solutions. This document offers step-by-step instructions on creating an account, installing the Jigx App, and adding pre-built solutions to your organization's app
-createdAt: Wed Sep 13 2023 06:59:40 GMT+0000 (Coordinated Universal Time)
-updatedAt: Thu Oct 19 2023 10:00:41 GMT+0000 (Coordinated Universal Time)
----
+# Use pre-built solutions
 
 Utilizing pre-built solutions in Jigx provides benefits in terms of time efficiency in development and selecting appropriate app functionalities. Opting for a pre-built solution seamlessly incorporates the solution into your Jigx App, making it readily available for utilization.
+
+
+
+<table isTableHeaderOn="true" selectedColumns="" selectedRows="" selectedTable="false" columnWidths="302">
+  <tr>
+    <td selected="false">
+      <p>Getting started </p>
+    </td>
+    <td selected="false">
+    </td>
+    <td selected="false">
+    </td>
+  </tr>
+  <tr>
+    <td selected="false">
+      <p><a href="./../Getting%20started.md">bla</a> </p>
+    </td>
+    <td selected="false">
+    </td>
+    <td selected="false">
+    </td>
+  </tr>
+  <tr>
+    <td selected="false">
+      <p>Use pre-built solutions </p>
+    </td>
+    <td selected="false">
+    </td>
+    <td selected="false">
+    </td>
+  </tr>
+  <tr>
+    <td selected="false">
+      <p>Getting started </p>
+    </td>
+    <td selected="false">
+    </td>
+    <td selected="false">
+    </td>
+  </tr>
+</table>
+
+
 
 ## Steps
 
@@ -49,6 +86,3 @@ With Jigx you can build and publish more than one solution to your Jigx mobile a
 ## What next?
 
 Why not build your own app? See how to [plan your app](<./Planning your app.md>) and learn how to [create an app from scratch](<./Create an app from scratch.md>).
-
-
-
