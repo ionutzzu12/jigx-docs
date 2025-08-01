@@ -2,14 +2,6 @@
 
 Utilizing pre-built solutions in Jigx provides benefits in terms of time efficiency in development and selecting appropriate app functionalities. Opting for a pre-built solution seamlessly incorporates the solution into your Jigx App, making it readily available for utilization.
 
-@getting star
-
-|                                                                        |   |   |
-| ---------------------------------------------------------------------- | - | - |
-| <a href="./../Getting started.md" target="_blank">Getting started</a>  |   |   |
-|                                                                        |   |   |
-|                                                                        |   |   |
-
 
 
 <table isTableHeaderOn="true" selectedColumns="" selectedRows="" selectedTable="false" columnWidths="328">
@@ -46,7 +38,7 @@ Utilizing pre-built solutions in Jigx provides benefits in terms of time efficie
   </tr>
   <tr>
     <td selected="false">
-      <p><a href="./../Getting%20started.md">Getting started</a> </p>
+      <a href="./../Getting started.md" target="_blank">Getting started</a>&#x20;
     </td>
     <td selected="false">
     </td>
