@@ -1,5 +1,40 @@
 # Welcome to Jigx Documentation
 
+
+
+- Enter in edit mode by pressing on  **  Edit**  button or use the `Ctrl`** **/** **`Cmd`** **+** **`E`** **shortcut. You can use the same shortcut or to press on  **  Preview  **button to lock your document and to see how it looks before publishing it.&#x20;
+  - If you have Review System enabled, check** **[here]() for more details.
+- Use forward slash `/` to add a new content block (see all blocks [here]()).
+  There are four categories:
+  1. **Basic** - with multiple blocks that help you format documents
+  2. **Media** - use these to import files, images, embed Youtube or Vimeo videos
+  3. **Developer** - you will use these when you write software documentation because you will leverage:
+     - [Multi language code editor]()
+     - [Mermaid diagrams]()
+     - [API Endpoints]()
+     - [OpenAPI / Swagger Block]()
+     - [GraphQL]()
+  4. **Embed** - most of our integrations work inside the editor. You can add embeds from other tools like Loom, Figma, Miro, Lucidcharts, and more. Check the [Embed Examples]() page for more info.
+- Write using [Markdown shortcuts]() and check the keyboard shortcuts by pressing `Ctrl`** **or** **`Cmd`** **+** **`/`
+- Use [WYSIWYG Menu]() for formatting options on each piece of text when you **highlight** or **double-click**.
+- Start [Using @ Mentions and dynamic links]()** **after you add more documents to link between them.
+- Enter in edit mode by pressing on  **  Edit**  button or use the `Ctrl`** **/** **`Cmd`** **+** **`E`** **shortcut. You can use the same shortcut or to press on  **  Preview  **button to lock your document and to see how it looks before publishing it.&#x20;
+  - If you have Review System enabled, check** **[here]() for more details.
+- Use forward slash `/` to add a new content block (see all blocks [here]()).
+  There are four categories:
+  1. **Basic** - with multiple blocks that help you format documents
+  2. **Media** - use these to import files, images, embed Youtube or Vimeo videos
+  3. **Developer** - you will use these when you write software documentation because you will leverage:
+     - [Multi language code editor]()
+     - [Mermaid diagrams]()
+     - [API Endpoints]()
+     - [OpenAPI / Swagger Block]()
+     - [GraphQL]()
+  4. **Embed** - most of our integrations work inside the editor. You can add embeds from other tools like Loom, Figma, Miro, Lucidcharts, and more. Check the [Embed Examples]() page for more info.
+- Write using [Markdown shortcuts]() and check the keyboard shortcuts by pressing `Ctrl`** **or** **`Cmd`** **+** **`/`
+- Use [WYSIWYG Menu]() for formatting options on each piece of text when you **highlight** or **double-click**.
+- Start [Using @ Mentions and dynamic links]()** **after you add more documents to link between them.
+
 Jigx simplifies mobile app development from start to finish in three steps. You can build native iOS and Android apps with familiar frameworks and tools like JavaScript, SQL, YAML, and Visual Studio Code.
 
 :::CtaButton{label="Getting started"}

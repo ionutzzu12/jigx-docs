@@ -2,13 +2,10 @@
 
 Utilizing pre-built solutions in Jigx provides benefits in terms of time efficiency in development and selecting appropriate app functionalities. Opting for a pre-built solution seamlessly incorporates the solution into your Jigx App, making it readily available for utilization.
 
-@getting star
+Procedural writing can be considered the direct opposite of functional writing. Instead of listing functions, procedural writing describes [***how***\*\* the users would utilize the product\*\*](https://www.archbee.com/blog/how-to-educate-saas-product-users).
 
-|                                                                        |   |   |
-| ---------------------------------------------------------------------- | - | - |
-| <a href="./../Getting started.md" target="_blank">Getting started</a>  |   |   |
-|                                                                        |   |   |
-|                                                                        |   |   |
+- Procedural writing can be considered the direct opposite of functional writing. Instead of listing functions, procedural writing describes [***how***\*\* the users would utilize the product\*\*](https://www.archbee.com/blog/how-to-educate-saas-product-users).
+-
 
 
 
@@ -23,13 +20,13 @@ Utilizing pre-built solutions in Jigx provides benefits in terms of time efficie
   </tr>
   <tr>
     <td selected="false">
-      <a href="./../Getting started.md" target="_blank">Getting started</a>&#x20;
+      <p></p><div>Getting started</div> <p></p>
     </td>
     <td selected="false">
       <ul>
       <li>lq</li>
       <li><a href="./../Getting%20started.md">linkk2</a> </li>
-      <li>linkk3 </li>
+      <li><div>linkk3</div> </li>
       </ul>
     </td>
     <td selected="false">
@@ -37,7 +34,7 @@ Utilizing pre-built solutions in Jigx provides benefits in terms of time efficie
   </tr>
   <tr>
     <td selected="false">
-      <a href="" target="_blank">Use pre-built solutions</a>&#x20;
+      <p></p><div>Use pre-built solutions</div> <p></p>
     </td>
     <td selected="false">
     </td>
@@ -46,7 +43,7 @@ Utilizing pre-built solutions in Jigx provides benefits in terms of time efficie
   </tr>
   <tr>
     <td selected="false">
-      <p><a href="./../Getting%20started.md">Getting started</a> </p>
+      <p></p><div>Getting started</div> <p></p>
     </td>
     <td selected="false">
     </td>
@@ -62,7 +59,7 @@ Utilizing pre-built solutions in Jigx provides benefits in terms of time efficie
 ::Image[]{src="https://archbee-image-uploads.s3.amazonaws.com/x7vdIDH6-ScTprfmi2XXX/AWLlJ2PrB5_fr2XuuK0od_prebuilt-select.png" signedSrc="https://archbee-image-uploads.s3.amazonaws.com/x7vdIDH6-ScTprfmi2XXX/AWLlJ2PrB5_fr2XuuK0od_prebuilt-select.png" size="84" width="2444" height="1630" position="center" caption="Pre-built Solutions" alt="Pre-built Solutions"}
 
 1. Create a [Creating an account](<./Creating an account.md>)
-2. Install Jigx App on a mobile device from the <a href="https://apps.apple.com/app/jigx/id1495596537" target="_blank">App Store</a> or <a href="https://play.google.com/store/apps/details?id=com.jigx.android" target="_blank">Google Play Store</a>
+2. Install Jigx App on a mobile device from the :Link[App Store]{href="https://apps.apple.com/app/jigx/id1495596537" newTab="true"} or :Link[Google Play Store]{href="https://play.google.com/store/apps/details?id=com.jigx.android" newTab="true"}
 3. Log onto [https://manage.jigx.com/](https://manage.jigx.com/)
 4. Browse to [https://manage.jigx.com/quickstart](https://manage.jigx.com/quickstart)
 5. Choose the sample app you want and click **Add to My Organization.**
