@@ -1,7 +1,6 @@
 # Welcome to Jigx Documentation
 
 
-
 Jigx simplifies mobile app development from start to finish in three steps. You can build native iOS and Android apps with familiar frameworks and tools like JavaScript, SQL, YAML, and Visual Studio Code.
 
 :::CtaButton{label="Getting started"}
