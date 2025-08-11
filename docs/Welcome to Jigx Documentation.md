@@ -1,7 +1,25 @@
 # Welcome to Jigx Documentation
 
-
 Jigx simplifies mobile app development from start to finish in three steps. You can build native iOS and Android apps with familiar frameworks and tools like JavaScript, SQL, YAML, and Visual Studio Code.
+
+::::CodeDrawer{title="Code Section Title" codeEditorData="[object Object]" responsesEditorData="[object Object]" isResponseExpanded="true"}
+:::CodeblockTabsExamples
+```javascript
+aaa
+```
+
+```python
+bbb
+```
+:::
+
+:::CodeblockTabsResponses
+```javascript
+```
+:::
+::::
+
+::miro[]{url="https://miro.com/app/embed/o9J_lU-qYRw=/?fromEmbed=1"}
 
 :::CtaButton{label="Getting started"}
 
@@ -58,4 +76,32 @@ Manage your organization details, users, and solutions, send push notifications,
 ::::
 
 ***
+
+::Iframely[]{originalUrl}
+
+::File[]{src="https://archbee-doc-uploads.s3.amazonaws.com/K_JWZranXy1tD6qvlG2v6-UgK-DHNrp5MhfYQuDLRyB-20240902-130737.pdf" signedSrc="https://archbee-doc-uploads.s3.amazonaws.com/K_JWZranXy1tD6qvlG2v6-UgK-DHNrp5MhfYQuDLRyB-20240902-130737.pdf" label="https://archbee-doc-uploads.s3.amazonaws.com/K_JWZranXy1tD6qvlG2v6-UgK-DHNrp5MhfYQuDLRyB-20240902-130737.pdf"}
+
+::githubGist[]{url="https://gist.github.com/8d50bc3766ccc6aca121e445272b8b8b.js"}
+
+[https://archbee-doc-uploads.s3.amazonaws.com/K\_JWZranXy1tD6qvlG2v6-UgK-DHNrp5MhfYQuDLRyB-20240902-130737.pdf](https://archbee-doc-uploads.s3.amazonaws.com/K_JWZranXy1tD6qvlG2v6-UgK-DHNrp5MhfYQuDLRyB-20240902-130737.pdf)
+
+- **ana are apples**
+  hehe
+- **dan**
+
+::File[]{src="https://archbee-doc-uploads.s3.amazonaws.com/K_JWZranXy1tD6qvlG2v6-UgK-DHNrp5MhfYQuDLRyB-20240902-130737.pdf" signedSrc="https://archbee-doc-uploads.s3.amazonaws.com/K_JWZranXy1tD6qvlG2v6-UgK-DHNrp5MhfYQuDLRyB-20240902-130737.pdf" label="https://archbee-doc-uploads.s3.amazonaws.com/K_JWZranXy1tD6qvlG2v6-UgK-DHNrp5MhfYQuDLRyB-20240902-130737.pdf"}
+
+
+
+::::CodeDrawer{isResponseExpanded="true" title="Code Section Title" codeEditorData="[object Object]" responsesEditorData="[object Object]"}
+:::CodeblockTabsExamples
+```none
+```
+:::
+
+:::CodeblockTabsResponses
+```none
+```
+:::
+::::
 
