@@ -80,7 +80,8 @@ Avoid using state keywords, such as `component`, as `instanceId` values in expre
       <p>=@ctx.jig.state.</p>
     </td>
     <td selected="false" align="left">
-      <p>activeItem activeItemId amounts filter isHorizontal isRefreshing isSelectable isSelectActive searchText selected value</p>
+      <p>activeItem </p>
+      <p>activeItemId amounts filter isHorizontal isRefreshing isSelectable isSelectActive searchText selected value</p>
     </td>
     <td selected="false" align="left">
       <ul>
@@ -740,6 +741,4 @@ The table below provides links to various examples of configuring state in the [
 
 - [set-state](https://docs.jigx.com/examples/set-state)
 - [reset-state](https://docs.jigx.com/examples/reset-state)
-
-
 
