@@ -5,54 +5,51 @@ Utilizing pre-built solutions in Jigx provides benefits in terms of time efficie
 Procedural writing can be considered the direct opposite of functional writing. Instead of listing functions, procedural writing describes [***how***\*\* the users would utilize the product\*\*](https://www.archbee.com/blog/how-to-educate-saas-product-users).
 
 - Procedural writing can be considered the direct opposite of functional writing. Instead of listing functions, procedural writing describes [***how***\*\* the users would utilize the product\*\*](https://www.archbee.com/blog/how-to-educate-saas-product-users).
--
 
 
 
 <table isTableHeaderOn="true" selectedColumns="" selectedRows="" selectedTable="false" columnWidths="328">
   <tr>
-    <td selected="false">
+    <td selected="false" align="left">
     </td>
-    <td selected="false">
+    <td selected="false" align="left">
     </td>
-    <td selected="false">
+    <td selected="false" align="left">
     </td>
   </tr>
   <tr>
-    <td selected="false">
-      <p></p><div>Getting started</div> <p></p>
+    <td selected="false" align="left">
+      <p>Getting started</p>
     </td>
-    <td selected="false">
+    <td selected="false" align="left">
       <ul>
       <li>lq</li>
-      <li><a href="./../Getting%20started.md">linkk2</a> </li>
-      <li><div>linkk3</div> </li>
+      <li><a href="./../Getting%20started.md">linkk2</a></li>
+      <li>linkk3</li>
       </ul>
     </td>
-    <td selected="false">
+    <td selected="false" align="left">
     </td>
   </tr>
   <tr>
-    <td selected="false">
-      <p></p><div>Use pre-built solutions</div> <p></p>
+    <td selected="false" align="left">
+      <p>Use pre-built solutions</p>
     </td>
-    <td selected="false">
+    <td selected="false" align="left">
     </td>
-    <td selected="false">
+    <td selected="false" align="left">
     </td>
   </tr>
   <tr>
-    <td selected="false">
-      <p></p><div>Getting started</div> <p></p>
+    <td selected="false" align="left">
+      <p>Getting started</p>
     </td>
-    <td selected="false">
+    <td selected="false" align="left">
     </td>
-    <td selected="false">
+    <td selected="false" align="left">
     </td>
   </tr>
 </table>
-
-
 
 ## Steps
 
