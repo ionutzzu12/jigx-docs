@@ -33,7 +33,7 @@ Avoid using state keywords, such as `component`, as `instanceId` values in expre
 
 ### Solution (Global) State
 
-<table isTableHeaderOn="true" selectedColumns="" selectedRows="" selectedTable="false" columnWidths="215">
+<table isTableHeaderOn="true" selectedColumns="" selectedRows="" selectedTable="false">
   <tr>
     <td selected="false" align="left">
       <p><strong>Syntax</strong></p>
@@ -50,9 +50,7 @@ Avoid using state keywords, such as `component`, as `instanceId` values in expre
       <p>=@ctx.solution.state.</p>
     </td>
     <td selected="false" align="left">
-      <p>activeItem
-      key
-      now</p>
+      <p>activeItem key now</p>
     </td>
     <td selected="false" align="left">
       <ul>
@@ -65,7 +63,7 @@ Avoid using state keywords, such as `component`, as `instanceId` values in expre
 
 ### Component (local) State
 
-<table isTableHeaderOn="true" selectedColumns="" selectedRows="" selectedTable="false" columnWidths="207,121">
+<table isTableHeaderOn="true" selectedColumns="" selectedRows="" selectedTable="false">
   <tr>
     <td selected="false" align="left">
       <p><strong>Syntax</strong></p>
@@ -82,22 +80,12 @@ Avoid using state keywords, such as `component`, as `instanceId` values in expre
       <p>=@ctx.jig.state.</p>
     </td>
     <td selected="false" align="left">
-      <p>activeItem
-      activeItemId
-      amounts
-      filter
-      isHorizontal
-      isRefreshing
-      isSelectable
-      isSelectActive
-      searchText
-      selected
-      value</p>
+      <p>activeItem activeItemId amounts filter isHorizontal isRefreshing isSelectable isSelectActive searchText selected value</p>
     </td>
     <td selected="false" align="left">
       <ul>
       <li>Applies to a list jig.</li>
-      <li>The creator configures the state in the YAML. </li>
+      <li>The creator configures the state in the YAML.</li>
       </ul>
     </td>
   </tr>
@@ -106,10 +94,7 @@ Avoid using state keywords, such as `component`, as `instanceId` values in expre
       <p>=@ctx.jigs.<em>jigInstanceId</em>.components.<em>componentInstanceId</em>.state.</p>
     </td>
     <td selected="false" align="left">
-      <p>data
-      isDirty
-      isValid
-      response</p>
+      <p>data isDirty isValid response</p>
     </td>
     <td selected="false" align="left">
       <ul>
@@ -123,10 +108,7 @@ Avoid using state keywords, such as `component`, as `instanceId` values in expre
       <p>=@ctx.component.state.</p>
     </td>
     <td selected="false" align="left">
-      <p>amount
-      checked
-      selected
-      value</p>
+      <p>amount checked selected value</p>
     </td>
     <td selected="false" align="left">
       <p>State is the variable of or for each component.</p>
@@ -137,15 +119,7 @@ Avoid using state keywords, such as `component`, as `instanceId` values in expre
       <p>=@ctx.components.componentInstanceId.state.</p>
     </td>
     <td selected="false" align="left">
-      <p>data
-      filter
-      isValid
-      isDirty
-      isPending
-      searchText
-      selected
-      response
-      value</p>
+      <p>data filter isValid isDirty isPending searchText selected response value</p>
     </td>
     <td selected="false" align="left">
       <ul>
@@ -159,8 +133,7 @@ Avoid using state keywords, such as `component`, as `instanceId` values in expre
       <p>=@ctx.current.state.</p>
     </td>
     <td selected="false" align="left">
-      <p>amount
-      checked</p>
+      <p>amount checked</p>
     </td>
     <td selected="false" align="left">
       <p>Applies to a list, list.item, product-item, and stage components. The list's data is an array of records. The <code>=@ctx.current.state</code> is the state of the current object in the array.</p>
@@ -170,7 +143,7 @@ Avoid using state keywords, such as `component`, as `instanceId` values in expre
 
 ### Jig (local) State
 
-<table isTableHeaderOn="true" selectedColumns="" selectedRows="" selectedTable="false" columnWidths="175">
+<table isTableHeaderOn="true" selectedColumns="" selectedRows="" selectedTable="false">
   <tr>
     <td selected="false" align="left">
       <p><strong>Syntax</strong></p>
@@ -650,7 +623,7 @@ onFocus:
 
 The table below provides links to various examples of configuring state in the [jigx-samples](https://docs.jigx.com/examples/Setting-up-your-solution).
 
-<table isTableHeaderOn="true" selectedColumns="" selectedRows="" selectedTable="false" columnWidths="305,134">
+<table isTableHeaderOn="true" selectedColumns="" selectedRows="" selectedTable="false">
   <tr>
     <td selected="false" align="left">
       <p><strong>Scenario</strong></p>
@@ -670,7 +643,7 @@ The table below provides links to various examples of configuring state in the [
       <p>ActiveItemId</p>
     </td>
     <td selected="false" align="left">
-      <p></p><div>List with active items</div><p></p>
+      <p>List with active items</p>
     </td>
   </tr>
   <tr>
@@ -681,7 +654,7 @@ The table below provides links to various examples of configuring state in the [
       <p>searchText</p>
     </td>
     <td selected="false" align="left">
-      <p></p><div>Dropdown with search</div><p></p>
+      <p>Dropdown with search</p>
     </td>
   </tr>
   <tr>
@@ -692,7 +665,7 @@ The table below provides links to various examples of configuring state in the [
       <p>filter, searchText</p>
     </td>
     <td selected="false" align="left">
-      <p></p><div>List with filter and search</div><p></p>
+      <p>List with filter and search</p>
     </td>
   </tr>
   <tr>
@@ -700,10 +673,10 @@ The table below provides links to various examples of configuring state in the [
       <p>Saving data to a provider</p>
     </td>
     <td selected="false" align="left">
-      <p></p><div>value</div><p></p>
+      <p>value</p>
     </td>
     <td selected="false" align="left">
-      <p></p><div>Update service form</div><p></p>
+      <p>Update service form</p>
     </td>
   </tr>
   <tr>
@@ -714,7 +687,7 @@ The table below provides links to various examples of configuring state in the [
       <p>amount</p>
     </td>
     <td selected="false" align="left">
-      <p></p><div>Product item maximum tag</div><p></p>
+      <p>Product item maximum tag</p>
     </td>
   </tr>
   <tr>
@@ -725,7 +698,7 @@ The table below provides links to various examples of configuring state in the [
       <p>checked</p>
     </td>
     <td selected="false" align="left">
-      <p></p><div>Highlight selected list of cleaning services</div><p></p>
+      <p>Highlight selected list of cleaning services</p>
     </td>
   </tr>
   <tr>
@@ -736,7 +709,7 @@ The table below provides links to various examples of configuring state in the [
       <p>selected</p>
     </td>
     <td selected="false" align="left">
-      <p></p><div>Evaluate progress to show helper and error text</div><p></p>
+      <p>Evaluate progress to show helper and error text</p>
     </td>
   </tr>
   <tr>
@@ -747,7 +720,7 @@ The table below provides links to various examples of configuring state in the [
       <p>reset-state (action)</p>
     </td>
     <td selected="false" align="left">
-      <p></p><div>Reset a form</div><p></p>
+      <p>Reset a form</p>
     </td>
   </tr>
   <tr>
@@ -758,7 +731,7 @@ The table below provides links to various examples of configuring state in the [
       <p>set-state (action)</p>
     </td>
     <td selected="false" align="left">
-      <p></p><div>Color a chosen item when pressing on an item in a list</div><p></p>
+      <p>Color a chosen item when pressing on an item in a list</p>
     </td>
   </tr>
 </table>
@@ -767,4 +740,6 @@ The table below provides links to various examples of configuring state in the [
 
 - [set-state](https://docs.jigx.com/examples/set-state)
 - [reset-state](https://docs.jigx.com/examples/reset-state)
+
+
 
