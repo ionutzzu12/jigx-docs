@@ -2,6 +2,12 @@
 
 Jigx simplifies mobile app development from start to finish in three steps. You can build native iOS and Android apps with familiar frameworks and tools like JavaScript, SQL, YAML, and Visual Studio Code.
 
+snippet
+
+:::ContentSnippet{docRefId="UxA1JzSv5_rUOPRb52yJf"}
+
+:::
+
 :::CodeblockTabs
 ```javascript
 import
@@ -90,43 +96,41 @@ Manage your organization details, users, and solutions, send push notifications,
 
 <table isTableHeaderOn="true" selectedColumns="" selectedRows="" selectedTable="false" columnWidths="157">
   <tr>
-    <td>
+    <td align="left">
       <p>da</p>
     </td>
-    <td>
+    <td align="left">
       <p>dadada</p>
     </td>
-    <td>
+    <td align="left">
     </td>
   </tr>
   <tr>
-    <td>
+    <td align="left">
       <p>ad</p>
     </td>
-    <td>
+    <td align="left">
     </td>
-    <td>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    </td>
-    <td>
-    </td>
-    <td>
+    <td align="left">
     </td>
   </tr>
   <tr>
-    <td>
+    <td align="left">
     </td>
-    <td>
+    <td align="left">
     </td>
-    <td>
+    <td align="left">
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+    </td>
+    <td align="left">
+    </td>
+    <td align="left">
     </td>
   </tr>
 </table>
-
-
 
 ::::CodeDrawer{isResponseExpanded="true" title="Code Section Title" codeEditorData="[object Object]" responsesEditorData="[object Object]"}
 :::CodeblockTabsExamples
