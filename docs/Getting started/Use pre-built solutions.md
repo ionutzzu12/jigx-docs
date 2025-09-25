@@ -4,49 +4,94 @@ Utilizing pre-built solutions in Jigx provides benefits in terms of time efficie
 
 Procedural writing can be considered the direct opposite of functional writing. Instead of listing functions, procedural writing describes [***how***\*\* the users would utilize the product\*\*](https://www.archbee.com/blog/how-to-educate-saas-product-users).
 
+
+
 - Procedural writing can be considered the direct opposite of functional writing. Instead of listing functions, procedural writing describes [***how***\*\* the users would utilize the product\*\*](https://www.archbee.com/blog/how-to-educate-saas-product-users).
 
-
-
-<table isTableHeaderOn="true" selectedColumns="" selectedRows="" selectedTable="false" columnWidths="328">
+<table isTableHeaderOn="true" selectedColumns="" selectedRows="">
   <tr>
-    <td selected="false" align="left">
+    <td align="left">
     </td>
-    <td selected="false" align="left">
+    <td align="left">
     </td>
-    <td selected="false" align="left">
+    <td align="left">
     </td>
   </tr>
   <tr>
-    <td selected="false" align="left">
+    <td align="left">
       <p>Getting started</p>
     </td>
-    <td selected="false" align="left">
+    <td align="left">
+      <ul>
+      <li>lq</li>
+      <li><a href="">linkk2</a></li>
+      <li>linkk3</li>
+      </ul>
+    </td>
+    <td align="left">
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <p>Use pre-built solutions</p>
+    </td>
+    <td align="left">
+    </td>
+    <td align="left">
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <p>Getting started</p>
+    </td>
+    <td align="left">
+    </td>
+    <td align="left">
+    </td>
+  </tr>
+</table>
+
+- Procedural writing can be considered the direct opposite of functional writing. Instead of listing functions, procedural writing describes [***how***\*\* the users would utilize the product\*\*](https://www.archbee.com/blog/how-to-educate-saas-product-users).
+
+<table isTableHeaderOn="true" selectedColumns="" selectedRows="" columnWidths="328">
+  <tr>
+    <td align="left">
+    </td>
+    <td align="left">
+    </td>
+    <td align="left">
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <p>Getting started</p>
+    </td>
+    <td align="left">
       <ul>
       <li>lq</li>
       <li><a href="./../Getting%20started.md">linkk2</a></li>
       <li>linkk3</li>
       </ul>
     </td>
-    <td selected="false" align="left">
+    <td align="left">
     </td>
   </tr>
   <tr>
-    <td selected="false" align="left">
+    <td align="left">
       <p>Use pre-built solutions</p>
     </td>
-    <td selected="false" align="left">
+    <td align="left">
     </td>
-    <td selected="false" align="left">
+    <td align="left">
     </td>
   </tr>
   <tr>
-    <td selected="false" align="left">
+    <td align="left">
       <p>Getting started</p>
     </td>
-    <td selected="false" align="left">
+    <td align="left">
     </td>
-    <td selected="false" align="left">
+    <td align="left">
     </td>
   </tr>
 </table>
@@ -84,7 +129,7 @@ With Jigx you can build and publish more than one solution to your Jigx mobile a
 
 1. [Install the Jigx Builder](<./Install the Jigx Builder.md>) and unzip the download file.
 2. Use the **Open** option, browse, and select the folder.
-3. The Jigx solution opens, you can view or edit the YAML files. Publish your changes by selecting the Jigx Builder** icon** in the left navigation bar.
+3. The Jigx solution opens, you can view or edit the YAML files. Publish your changes by selecting the Jigx Builde&#x72;**&#x20;icon** in the left navigation bar.
    - In the Jigx Explorer hover over the **solution name** till you see the **publish** **icon (rocket)**. Click on the icon to start the publishing process.&#x20;
    - Enter your Jigx username and press **Enter**.
    - Enter your Jigx password and press **Enter**. The publishing process starts, and the progress shows in the bottom right corner of the VS Code editor. A message displays when the solution is successfully published. The changes are immediately visible in the Jigx App. &#x20;
